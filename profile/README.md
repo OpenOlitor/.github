@@ -17,6 +17,8 @@ Zu OpenOlitor sind die folgenden Online-Informationen und Tools verfügbar:
 
 * Weitere technische Dokumentationen zu OpenOlitor befindet sich auf [dem GitHub-Wiki](https://github.com/OpenOlitor/OpenOlitor/wiki).
 
+* [Contributions](https://github.com/OpenOlitor/OpenOlitor/blob/prod/CONTRIBUTING.md) sind sehr gewünscht!
+
 ## Bienvenue chez OpenOlitor
 
 Les informations suivantes sont à votre disposition:
@@ -28,6 +30,8 @@ Les informations suivantes sont à votre disposition:
 * Les [repositories](https://github.com/orgs/OpenOlitor/repositories) pour le [serveeur](https://github.com/OpenOlitor/openolitor-server), [l'application d'administration](https://github.com/OpenOlitor/openolitor-client-admin) et [l'application pour les consommateurs](https://github.com/OpenOlitor/openolitor-client-kundenportal) et d'autres composants et outils.
 
 * La documententation technique est à disposition sur [le Wiki-GitHub](https://github.com/OpenOlitor/OpenOlitor/wiki).
+
+* [Contributions](https://github.com/OpenOlitor/OpenOlitor/blob/prod/CONTRIBUTING.md) sont bienvenues !
 
 ## Welcome at OpenOlitor
 
@@ -41,6 +45,8 @@ The following sites provide useful information about OpenOlitor:
 * The [repositories](https://github.com/orgs/OpenOlitor/repositories) for the [server](https://github.com/OpenOlitor/openolitor-server), [admin-frontend](https://github.com/OpenOlitor/openolitor-client-admin) and [customer portal](https://github.com/OpenOlitor/openolitor-client-kundenportal) along with some other components and tools.
 
 * The technical documentation is available on the [GitHub-Wiki](https://github.com/OpenOlitor/OpenOlitor/wiki).
+
+* [Contributions](https://github.com/OpenOlitor/OpenOlitor/blob/prod/CONTRIBUTING.md) are very welcome!
 
 ## Lizenz / License
 Code bis April 2018 wurde unter [GPL v3](LICENSE_legacy) publiziert. Ab April 2018 wird OpenOlitor unter [AGPL v3](LICENSE_legacy) veröffentlicht.
