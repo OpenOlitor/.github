@@ -11,6 +11,8 @@ Zu OpenOlitor sind die folgenden Online-Informationen und Tools verfügbar:
 
 * [www.openolitor.org](http://www.openolitor.org/): Die Webseite von OpenOlitor enthält Information zur Software, zur Organisation und zur Finanzierung sowie eine umfassende [Dokumentation](https://openolitor.org/dokumentation/), aktuelle Informationen, Kontaktdaten, Vorschläge zur Mitarbeit und die Anmeldung für den Newsletter.
 
+* Fragen und Vorschläge sind in den [Github-Discussions](https://github.com/OpenOlitor/OpenOlitor/discussions) gut aufgehoben.
+
 * Wir verwenden das [Github-Issue-Tracking](https://github.com/OpenOlitor/OpenOlitor/issues).
 
 * Die [Repositories](https://github.com/orgs/OpenOlitor/repositories) mit [Server](https://github.com/OpenOlitor/openolitor-server), [Admin-Frontend](https://github.com/OpenOlitor/openolitor-client-admin) und [Kundenportal](https://github.com/OpenOlitor/openolitor-client-kundenportal) sowie einigen weiteren Komponenten und Tools.
@@ -24,6 +26,8 @@ Zu OpenOlitor sind die folgenden Online-Informationen und Tools verfügbar:
 Les informations suivantes sont à votre disposition:
 
 * [www.openolitor.org](http://www.openolitor.org/fr/): Notre page web principle vous fournit plain d'informations de base, décrit les modules couvert par OpenOlitor, l'organisation des personnes impliquées et le financement. En plus vous y trouvez la [documentation](https://openolitor.org/dokumentation/), des informations actuelles, des propositions pour une collaboration au projet, nos coordonées et une possibilité de s'inscire au newsletter.
+
+* Pour des questions et propositions nous utilisons les [Github-Discussions](https://github.com/OpenOlitor/OpenOlitor/discussions).
 
 * Nous utilison le [Github-Issue-Tracking](https://github.com/OpenOlitor/OpenOlitor/issues).
 
@@ -41,6 +45,7 @@ The following sites provide useful information about OpenOlitor:
 
 * We use the [Github-Issue-Tracking](https://github.com/OpenOlitor/OpenOlitor/issues).
 
+* For questions and suggestions you may use the [Github-Discussions](https://github.com/OpenOlitor/OpenOlitor/discussions).
 
 * The [repositories](https://github.com/orgs/OpenOlitor/repositories) for the [server](https://github.com/OpenOlitor/openolitor-server), [admin-frontend](https://github.com/OpenOlitor/openolitor-client-admin) and [customer portal](https://github.com/OpenOlitor/openolitor-client-kundenportal) along with some other components and tools.
 
